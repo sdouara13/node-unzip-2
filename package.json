@@ -1,6 +1,6 @@
 {
-  "name": "unzip",
-  "version": "0.2.1",
+  "name": "unzip2",
+  "version": "0.2.5",
   "description": "Unzip cross-platform streaming API compatible with fstream and fs.ReadStream",
   "author": "Hlib Dmytriiev <glebdmitriew@gmail.com>",
   "maintainers": [
@@ -44,5 +44,7 @@
   "bugs": {
     "url": "https://github.com/glebdmitriew/node-unzip-2/issues"
   },
-  "homepage": "https://github.com/glebdmitriew/node-unzip-2"
+  "homepage": "https://github.com/glebdmitriew/node-unzip-2",
+  "_from": "unzip2@0.2.5",
+  "_resolved": "http://registry.npm.taobao.org/unzip2/download/unzip2-0.2.5.tgz"
 }
