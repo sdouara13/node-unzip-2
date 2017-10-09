@@ -1,4 +1,4 @@
-# node-unzip-2
+# node-unzip-2-li
 
 Streaming cross-platform unzip tool written in node.js. 
 It is an improved version of [Evan Oxfeld's node-unzip](https://github.com/isaacs/node-tar), which supports unzipping for files with a "STORE" compression (uncompressed files).
@@ -10,7 +10,7 @@ example use case of [node-pullstream](https://github.com/nearinfinity/node-pulls
 ## Installation
 
 ```bash
-$ npm install unzip2-Li
+$ npm install unzip2-li
 ```
 
 ## Quick Examples
